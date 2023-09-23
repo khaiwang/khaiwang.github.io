@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zikai Wang</title>
-    <link>http://khaiwang.github.io/tags/</link>
+    <link>https://khaiwang.github.io/tags/</link>
     <description>Recent content in Tags on Zikai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="http://khaiwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://khaiwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer</title>
-      <link>http://khaiwang.github.io/tags/primer/</link>
+      <link>https://khaiwang.github.io/tags/primer/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://khaiwang.github.io/tags/primer/</guid>
+      <guid>https://khaiwang.github.io/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todo</title>
-      <link>http://khaiwang.github.io/tags/todo/</link>
+      <link>https://khaiwang.github.io/tags/todo/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://khaiwang.github.io/tags/todo/</guid>
+      <guid>https://khaiwang.github.io/tags/todo/</guid>
       <description></description>
     </item>
     
