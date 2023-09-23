@@ -6,26 +6,14 @@
     <description>Recent content in Posts on Zikai Wang 王子恺</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://khaiwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright notice</copyright><atom:link href="https://khaiwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://khaiwang.github.io/posts/post-8/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://khaiwang.github.io/posts/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://khaiwang.github.io/posts/post-8/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Primer: When You Have Too Much to Do</title>
-      <link>https://khaiwang.github.io/posts/post-1/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://khaiwang.github.io/posts/post-1/</guid>
-      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
-It all keeps piling up, and it can feel overwhelming.
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
+      <guid>https://khaiwang.github.io/posts/post1/</guid>
+      <description>This is for test</description>
     </item>
     
   </channel>
