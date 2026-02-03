@@ -6,7 +6,7 @@ description: "A brief introduction of Zikai Wang."
 
 Hi! Welcome to my website.
 
-My name is Zikai Wang. I am a 2nd year PhD student in Khoury College of Computer Sciences at Northeastern University, advised by Prof. [Cheng Tan](https://naizhengtan.github.io/). I am a member of the [System Research Group](https://srg.khoury.northeastern.edu/), where I work on building reliable and verifiable data systems.
+My name is Zikai Wang. I am a 2nd year PhD student in Khoury College of Computer Sciences at Northeastern University, advised by Prof. [Cheng Tan](https://naizhengtan.github.io/). I am a member of the [System Research Group](https://srg.khoury.northeastern.edu/), where I work on building reliable and verifiable data systems. I am a member of the [NDIF](https://ndif.us/) team now, developing scalable large neural networks serving and optimizing inference engines for efficient model auditing.
 
 Before Northeastern, I obtained my M.E and B.E in Renmin University of China (RUC) under the supervision of Prof. Yunpeng Chai. Where I worked on the distributed database system. 
 
