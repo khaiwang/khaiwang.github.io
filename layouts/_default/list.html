@@ -53,7 +53,7 @@
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2 class="entry-hint-parent">
-      {{- .Title }}
+      {{- .Title }}{{ with .Params.externalUrl }}&nbsp;↗{{ end }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" fill="currentColor">
@@ -74,7 +74,11 @@
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
+  {{- with .Params.externalUrl }}
+  <a class="entry-link" aria-label="external post link to {{ $page.Title | plainify }}" href="{{ . }}" target="_blank" rel="noopener"></a>
+  {{- else }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  {{- end }}
 </article>
 {{- end }}
 

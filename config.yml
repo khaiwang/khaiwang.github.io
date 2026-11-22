@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Zikai Wang
-          subtitle: "I’m a PhD student in Khoury College of Computer Sciences at Northeastern University, advised by Prof. Cheng Tan. Before Northeastern, I obtained my M.E and B.E in Renmin University of China (RUC) under the supervision of Prof. Yunpeng Chai. My research interest lies in building verifiable intelligent systems."
+          subtitle: "I’m a PhD student in Khoury College of Computer Sciences at Northeastern University, advised by Prof. [Cheng Tan](https://naizhengtan.github.io/) and Prof. [David Bau](https://baulab.info/), and a member of the [NDIF](https://ndif.us/) team. I build infrastructure for interpretability research: inference systems that give researchers white-box access to large models, so they can read and edit model internals during inference at scale."
           imageUrl: "me.png"
           imageWidth: 310
           imageHeight: 468
