@@ -99,6 +99,36 @@
     border-radius: var(--radius);
     width: 100%;
     height: auto;
+    background: #fff;
+    padding: 6px;
+}
+
+/* Cards with a figure: thumbnail on the left, text on the right. */
+.post-entry:not(.tag-entry):has(.entry-cover) {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    column-gap: var(--gap);
+}
+
+.post-entry:not(.tag-entry):has(.entry-cover) .entry-cover {
+    grid-column: 1;
+    grid-row: 1 / span 3;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+.post-entry:not(.tag-entry):has(.entry-cover) > :not(.entry-cover):not(.entry-link) {
+    grid-column: 2;
+}
+
+@media screen and (max-width: 768px) {
+    .post-entry:not(.tag-entry):has(.entry-cover) {
+        display: block;
+    }
+
+    .post-entry:not(.tag-entry):has(.entry-cover) .entry-cover {
+        margin-bottom: var(--gap);
+    }
 }
 
 .entry-cover a {
